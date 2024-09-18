@@ -6,6 +6,8 @@ In response to the COVID-19 pandemic, this project focuses on the rapid and accu
 
 ## Dataset
 
+Downloaded Covid and Pneumonia datasets from Kaggle and tored in Drive.
+
 ### Content
 
 - **COVID**: 1626 images
